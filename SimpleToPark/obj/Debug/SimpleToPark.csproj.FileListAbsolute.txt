@@ -1,0 +1,10 @@
+C:\Users\usuario\source\repos\SimpleToPark\SimpleToPark\bin\Debug\SimpleToPark.exe.config
+C:\Users\usuario\source\repos\SimpleToPark\SimpleToPark\bin\Debug\SimpleToPark.exe
+C:\Users\usuario\source\repos\SimpleToPark\SimpleToPark\bin\Debug\SimpleToPark.pdb
+C:\Users\usuario\source\repos\SimpleToPark\SimpleToPark\obj\Debug\SimpleToPark.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\SimpleToPark\SimpleToPark\obj\Debug\SimpleToPark.Properties.Resources.resources
+C:\Users\usuario\source\repos\SimpleToPark\SimpleToPark\obj\Debug\SimpleToPark.SimpleToPark.resources
+C:\Users\usuario\source\repos\SimpleToPark\SimpleToPark\obj\Debug\SimpleToPark.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\SimpleToPark\SimpleToPark\obj\Debug\SimpleToPark.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\SimpleToPark\SimpleToPark\obj\Debug\SimpleToPark.exe
+C:\Users\usuario\source\repos\SimpleToPark\SimpleToPark\obj\Debug\SimpleToPark.pdb
